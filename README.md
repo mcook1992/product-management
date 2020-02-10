@@ -8,7 +8,9 @@ These guided, interactive lessons aimed to help studens learn basic writing and 
 
 ![alt text](videos/Guided_Tutorials.gif)
 
-
+<br>
+<br>
+<br>
 
 
 
