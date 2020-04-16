@@ -1,5 +1,5 @@
 # product-management
-## A demo of two of my favorite products I've managed from inception to completion:
+## A demo of two of my favorite products I've managed from inception to completion
 
 
 ## Guided Tutorials:
