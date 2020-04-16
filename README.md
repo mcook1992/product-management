@@ -13,7 +13,7 @@ These guided, interactive lessons aimed to help studens learn basic writing and 
 <br>
 
 
-
+The "Verbals" Learning Pathway
 
 This learning pathway aimed ot help kids distinguish between actual verbs and confusing words that "looked" like verbs.
 
